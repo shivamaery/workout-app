@@ -10,7 +10,5 @@ public class Exercise
 
     public List<string> SecondaryMuscleGroups { get; set; } = new List<string>();
 
-    public int rest_time { get; set; } // in seconds
-
 
 }
